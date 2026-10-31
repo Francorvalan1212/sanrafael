@@ -1,0 +1,14 @@
+{
+  "name": "Qué hacemos, San Rafael",
+  "short_name": "Qué hacemos",
+  "description": "Eventos, turismo y planes en San Rafael, Mendoza.",
+  "lang": "es-AR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#2563EB",
+  "icons": [
+    { "src": "/san-rafael-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
